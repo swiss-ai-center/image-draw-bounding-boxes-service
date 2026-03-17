@@ -91,4 +91,3 @@ class MyService(Service):
         return {
             "image-with-boxes": TaskData(data=img_byte_arr, type=img_format)
         }
-
